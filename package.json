@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "HomeHub",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main.js",
+    "stop": "killall node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chickii",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "firebase": "^7.3.0",
+    "firebase-admin": "^8.7.0",
+    "moment": "^2.24.0",
+    "mqtt": "^3.0.0",
+    "nodemon": "^1.19.4",
+    "ping": "^0.2.2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "uuid": "3dbbb259-e8b5-4d75-a105-2a03b69f9aca",
+    "hostname": "http://127.0.0.1",
+    "LOGIN_API": "/api/login",
+    "BELLEVENTS_API": "/api/bellevents",
+    "REPLYEVENTS_API": "/api/replyevent/"
+
+}
