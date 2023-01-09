@@ -14,7 +14,7 @@
     "axios": "^0.19.2",
     "express": "^4.17.1",
     "firebase": "^7.3.0",
-    "firebase-admin": "^8.7.0",
+    "firebase-admin": "^11.4.1",
     "moment": "^2.24.0",
     "mqtt": "^3.0.0",
     "nodemon": "^1.19.4",
